@@ -1,0 +1,6 @@
+{
+  "name": "Institutional LBO & Financial Projections Model",
+  "description": "Interactive investment-grade LBO valuation, 5-year operating forecast, waterfall payoff comparison, cap table, and sensitivity matrix with copy-pasteable Google Sheets formulas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
